@@ -5,11 +5,9 @@
     </a>
   </div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlt131220&theme=vue" alt="活动统计"/> 
-
   <div>
     <a href="https://www.mhbdng.cn"><img src="https://img.shields.io/badge/Website-博客-blue"  alt=""/></a>&emsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mlt131220&label=Views&color=339af0&style=flat" alt="访问统计" />
+    <img src="https://komarev.com/ghpvc/?username=mlt131220&label=Views&color=339af0&style=flat" alt="访问统计" />
   </div>
 
   <h3>Things I code with</h3>
@@ -84,6 +82,8 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/mlt131220/mlt131220/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mlt131220&theme=vue" alt="活动统计"/> 
+
   <div>&nbsp;</div>
 </div>
 
@@ -93,4 +93,13 @@
  🌱 我的主要技术栈是 Vue/React/ThreeJS/BabylonJS/Go 等；<br/>
  🌱 不如意事常八九，可与人言无二三。
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlt131220)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;">
+  <img height="160px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mlt131220&hide=contribs&show_icons=true&theme=ambient_gradient" />
+  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlt131220&layout=compact&theme=ambient_gradient" />
+</div>
+
+
+# :poop: GitHub Gist Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=ES-3DEditor&theme=shadow_red)](https://github.com/mlt131220/ES-3DEditor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=LightGoBack&theme=shadow_red)](https://github.com/mlt131220/LightGoBack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=LightBlog&theme=shadow_red)](https://github.com/mlt131220/LightBlog)
