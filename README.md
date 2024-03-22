@@ -101,5 +101,3 @@
 
 # :poop: GitHub Gist Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=ES-3DEditor&theme=shadow_red)](https://github.com/mlt131220/ES-3DEditor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=LightGoBack&theme=shadow_red)](https://github.com/mlt131220/LightGoBack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=LightBlog&theme=shadow_red)](https://github.com/mlt131220/LightBlog)
