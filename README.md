@@ -99,7 +99,9 @@
   <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlt131220&layout=compact&theme=ambient_gradient" />
 </div>
 
+# :light_rail: Lazy, lazy, non-stop
+* [2024总结 & 2025规划](./2025/NewStart.md)
 
-# :poop: GitHub Gist Pins
+# :heartbeat: GitHub Gist Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=ES-3DEditor&theme=shadow_red)](https://github.com/mlt131220/ES-3DEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=ES3DEditorGoBack&theme=shadow_red)](https://github.com/mlt131220/ES3DEditorGoBack)
