@@ -103,4 +103,5 @@
 * [2024总结 & 2025规划](./2025/NewStart.md)
 
 # :heartbeat: GitHub Gist Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=ES-3DEditor&theme=shadow_red)](https://github.com/mlt131220/ES-3DEditor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=Astral3D&theme=shadow_red)](https://github.com/mlt131220/Astral3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlt131220&repo=AstralLandGame&theme=shadow_red)](https://github.com/mlt131220/AstralLandGame)
